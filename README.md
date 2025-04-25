@@ -1,4 +1,5 @@
 # ForecastEdge - Public Issue Tracker
+![ForecastEdge Logo](logo/logo.png)
 
 **Welcome to the public issue tracker for ForecastEdge.**
 
